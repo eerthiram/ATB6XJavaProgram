@@ -5,25 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8666ed4e-3e74-484e-a96c-af92fe21a49f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATB6XJavaProgram.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/Lab001.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/Lab002.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/Lab003.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/Lab004.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/Lab005.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/Lab006.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/Lab007.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/Lab008.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/classNames/Class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/classNames/Package.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_11042024/classNames/True.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab0019.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab009.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab010.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab011.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab013.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab014.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab016.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab017.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab018.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab020.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab021.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab022.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab023.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab024.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +38,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/ex_13042024/Lab010.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -58,13 +60,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab008">
-    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_11042024.Lab002" />
+  <component name="RunManager" selected="Application.Lab024">
+    <configuration name="Lab020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13042024.Lab020" />
       <module name="ATB6XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_11042024.classNames.*" />
+          <option name="PATTERN" value="ex_13042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_11042024.Lab003" />
+    <configuration name="Lab021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13042024.Lab021" />
       <module name="ATB6XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_11042024.classNames.*" />
+          <option name="PATTERN" value="ex_13042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab004" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_11042024.Lab004" />
+    <configuration name="Lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13042024.Lab023" />
       <module name="ATB6XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_11042024.classNames.*" />
+          <option name="PATTERN" value="ex_13042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab007" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_11042024.Lab007" />
+    <configuration name="Lab024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13042024.Lab024" />
       <module name="ATB6XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_11042024.classNames.*" />
+          <option name="PATTERN" value="ex_13042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,26 +113,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab008" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_11042024.Lab008" />
-      <module name="ATB6XJavaProgram" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_11042024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Scratch" />
+      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab008" />
-        <item itemvalue="Application.Lab007" />
-        <item itemvalue="Application.Lab004" />
-        <item itemvalue="Application.Lab003" />
-        <item itemvalue="Application.Lab002" />
+        <item itemvalue="Application.Lab024" />
+        <item itemvalue="Application.Lab023" />
+        <item itemvalue="Application.Lab021" />
+        <item itemvalue="Java Scratch.Scratch" />
+        <item itemvalue="Application.Lab020" />
       </list>
     </recent_temporary>
   </component>
