@@ -5,23 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8666ed4e-3e74-484e-a96c-af92fe21a49f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab0019.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab009.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab010.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab011.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab012.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab013.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab014.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab015.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab016.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab017.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab018.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab020.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab021.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab022.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab023.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13042024/Lab024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab025.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab027.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab028.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab029.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab030.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab031.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab033.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab034.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab035.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab036.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab037.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab038.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab039.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab040.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab041.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab042.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab043.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_18042024/Lab044.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,13 +63,13 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab024">
-    <configuration name="Lab020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13042024.Lab020" />
+  <component name="RunManager" selected="Application.Lab044">
+    <configuration name="Lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18042024.Lab040" />
       <module name="ATB6XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13042024.*" />
+          <option name="PATTERN" value="ex_18042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13042024.Lab021" />
+    <configuration name="Lab041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18042024.Lab041" />
       <module name="ATB6XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13042024.*" />
+          <option name="PATTERN" value="ex_18042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +90,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab023" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13042024.Lab023" />
+    <configuration name="Lab042" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18042024.Lab042" />
       <module name="ATB6XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13042024.*" />
+          <option name="PATTERN" value="ex_18042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab024" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13042024.Lab024" />
+    <configuration name="Lab043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18042024.Lab043" />
       <module name="ATB6XJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13042024.*" />
+          <option name="PATTERN" value="ex_18042024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,20 +116,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Scratch" />
-      <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
+    <configuration name="Lab044" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_18042024.Lab044" />
+      <module name="ATB6XJavaProgram" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_18042024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab024" />
-        <item itemvalue="Application.Lab023" />
-        <item itemvalue="Application.Lab021" />
-        <item itemvalue="Java Scratch.Scratch" />
-        <item itemvalue="Application.Lab020" />
+        <item itemvalue="Application.Lab044" />
+        <item itemvalue="Application.Lab043" />
+        <item itemvalue="Application.Lab042" />
+        <item itemvalue="Application.Lab041" />
+        <item itemvalue="Application.Lab040" />
       </list>
     </recent_temporary>
   </component>
@@ -140,5 +149,20 @@
       <updated>1715066814689</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_18042024/Lab041.java</url>
+          <line>3</line>
+          <properties class="ex_18042024.Lab041" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
